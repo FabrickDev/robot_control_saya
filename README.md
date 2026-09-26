@@ -160,7 +160,10 @@ https://github.com/FabrickDev/robot_control_saya
 * [FabrickDev/robot_control_saya](https://github.com/FabrickDev/robot_control_saya)
 
 ## Author
+**Electrical Engineering Class of 2023 C – Industrial Robotics**
 
 **Achmad Syahrul Ramadhan (23050874070)**
+
 **Naufal Herjuno (23050874084)**
+
 **Faqisna Putra Mardhatillah (23050874094)**
