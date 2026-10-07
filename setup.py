@@ -24,7 +24,8 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'robot_saya_node = robot_control_saya.robot_saya_node:main'
+            'inverse_kinematics = robot_control_saya.inverse_kinematics:main',
+            'pelajaran = robot_control_saya.pelajaran:main',
         ],
     },
 )
